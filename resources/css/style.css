@@ -1,0 +1,41 @@
+div {
+    margin : 0;
+    padding : 30px;
+    color:white;
+}
+div h1 {
+    color : white;
+    font-family : Verdana, Geneva, Tahoma, sans-serif ; 
+    font-weight:normal;
+    font-size:50px;
+    margin : 0px;
+}
+
+div a {
+    padding-top: 20px;
+    text-align : center ;
+    color : Aquamarine ; 
+    font-size : 16px ;
+}
+
+body {
+    background-color: black;
+    text-align : center ; 
+}
+
+div > h2 {
+    margin: 0px;
+    font-family: Verdana;
+    font-weight: 300px;
+    font-size:42px;
+    padding:0px;
+}
+
+div h3 {
+    margin : 0px;
+    padding: 0px;
+    font-family:Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
